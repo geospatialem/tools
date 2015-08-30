@@ -9,6 +9,9 @@
 2. [JSON Editor Online](http://jsoneditoronline.org): View, edit, and format JSON files. It has various modes such as a tree editor, a code editor, and a plain text editor.  
 2. [Thomas Frank JSON Editor](http://www.thomasfrank.se/downloadableJS/JSONeditor_example.html): This editor allows you to get a good overview of a JSON structure and make changes to it easily through a tree view.
 
+## Geospatial
+1. [Bounding Box](http://boundingbox.klokantech.com): Populate coordinates of a self-defined bounding box in various formats, including GeoJSON.
+
 ## Programming
 1. [HTML to JavaScript Convertor](http://accessify.com/tools-and-wizards/developer-tools/html-javascript-convertor): Take HTML markup and convert it to a series of document.write() statements, and/or string variables that you can use in a block of JavaScript.
 2. [JavaScript Variable Name Validator](https://mothereff.in/js-variables)
