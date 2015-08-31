@@ -17,3 +17,4 @@
 1. [HTML to JavaScript Convertor](http://accessify.com/tools-and-wizards/developer-tools/html-javascript-convertor): Take HTML markup and convert it to a series of document.write() statements, and/or string variables that you can use in a block of JavaScript.
 2. [JavaScript Variable Name Validator](https://mothereff.in/js-variables)
 3. [RGB to HEX Color Converter](http://www.javascripter.net/faq/rgbtohex.htm)
+4. [The Command Line Crash Course](http://cli.learncodethehardway.org/book)
