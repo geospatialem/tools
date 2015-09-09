@@ -10,7 +10,8 @@
 ## GeoJSON
 1. [GeoJSON.io](http://geojson.io): A quick, simple tool for creating (points/lines/polygons), editing, and viewing GeoJSON files. It supports GeoJSON in all ways, and works with a variety of formats (e.g. KML, GPX, CSV, TopoJSON, etc.).  
 2. [JSON Editor Online](http://jsoneditoronline.org): View, edit, and format JSON files. It has various modes such as a tree editor, a code editor, and a plain text editor.  
-2. [Thomas Frank JSON Editor](http://www.thomasfrank.se/downloadableJS/JSONeditor_example.html): This editor allows you to get a good overview of a JSON structure and make changes to it easily through a tree view.
+3. [Thomas Frank JSON Editor](http://www.thomasfrank.se/downloadableJS/JSONeditor_example.html): This editor allows you to get a good overview of a JSON structure and make changes to it easily through a tree view.
+4. [Ogre](http://ogre.adc4gis.com): A ogr2ogr web client to export to GeoJSON.
 
 ## Geospatial
 1. [GDAL Cheat Sheet](https://github.com/dwtkns/gdal-cheat-sheet): Cheat sheet for GDAL/OGR command-line geodata tools by [Derek Watkins](https://github.com/dwtkns).
