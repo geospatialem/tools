@@ -16,6 +16,7 @@
 ## Geospatial
 1. [GDAL Cheat Sheet](https://github.com/dwtkns/gdal-cheat-sheet): Cheat sheet for GDAL/OGR command-line geodata tools by [Derek Watkins](https://github.com/dwtkns).
 2. [Bounding Box](http://boundingbox.klokantech.com): Populate coordinates of a self-defined bounding box in various formats, including GeoJSON.
+3. [The True Size](http://thetruesize.com): Projection distortion. Move geographies to see how'd they look in different parts of the world.
 
 ## Programming
 1. [HTML to JavaScript Convertor](http://accessify.com/tools-and-wizards/developer-tools/html-javascript-convertor): Take HTML markup and convert it to a series of document.write() statements, and/or string variables that you can use in a block of JavaScript.
