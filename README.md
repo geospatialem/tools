@@ -4,6 +4,7 @@
 2. [Emoji's](http://getemoji.com): Copy/paste into fun places like the Twitters, and slides.com. Also, just 'cause.
 3. [Markdown Emoji's](http://www.emoji-cheat-sheet.com): Copy/paste emojis for Markdown.
 4. [Strikethrough Text](http://manytools.org/facebook-twitter/strikethrough-text): Write out text, copy/paste into the Twitters, and other social mediums.
+5. [`.MOV` → `.GIF`](https://gist.github.com/dergachev/4627207): How to make MOV's into GIF's for the GitHubs and the Twitters.
 
 ## Accessibility
 1. [Tenon.io](http://www.tenon.io): Test a site's accessibility.  
