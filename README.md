@@ -26,3 +26,6 @@
 2. [JavaScript Variable Name Validator](https://mothereff.in/js-variables)
 3. [RGB to HEX Color Converter](http://www.javascripter.net/faq/rgbtohex.htm)
 4. [The Command Line Crash Course](http://cli.learncodethehardway.org/book)
+5. [Contributing to Open Source on GitHub](https://guides.github.com/activities/contributing-to-open-source)  
+6. [A Beginner's Guide to Open Source: The Best Advice for Making Your First Contribution](http://www.erikaheidi.com/blog/a-beginners-guide-to-open-source-making-your-first-contribution), article    
+7. [The Real Benefits of Engaging in Open Source](http://www.erikaheidi.com/blog/the-real-benefits-of-engaging-in-open-source), article    
