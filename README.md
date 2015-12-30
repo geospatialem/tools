@@ -27,6 +27,7 @@
 * [Sven's Git Tidbits](https://gist.github.com/hofmannsven/6814451): Amazing takeaways from [Sven](http://www.github.com/hofmannsven)
 
 ## Programming
+* [Visualize Python](http://pythontutor.com/visualize.html): Visualize and step through Python, or other programming languages. You can also perform tests with your code.
 * [HTML to JavaScript Convertor](http://accessify.com/tools-and-wizards/developer-tools/html-javascript-convertor): Take HTML markup and convert it to a series of document.write() statements, and/or string variables that you can use in a block of JavaScript.
 * [JavaScript Variable Name Validator](https://mothereff.in/js-variables)
 * [RGB to HEX Color Converter](http://www.javascripter.net/faq/rgbtohex.htm)
