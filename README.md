@@ -38,6 +38,9 @@
 ### Command Line
 * [The Command Line Crash Course](http://cli.learncodethehardway.org/book)
 
+### CSS
+* [CSS Lint](http://csslint.net)
+
 ### JavaScript
 * [HTML to JavaScript Convertor](http://accessify.com/tools-and-wizards/developer-tools/html-javascript-convertor): Take HTML markup and convert it to a series of document.write() statements, and/or string variables that you can use in a block of JavaScript.
 * [JavaScript Variable Name Validator](https://mothereff.in/js-variables)
