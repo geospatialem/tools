@@ -10,6 +10,11 @@
 ## Accessibility
 * [Tenon.io](http://www.tenon.io): Test a site's accessibility.  
 
+## Colors  
+* [Color](http://color.hailpixel.com): A color swatch generator.
+* [Coolors](https://coolors.co/app): The super fast color schemes generator for cool designers.  
+* [Gradients.io](http://www.gradients.io): Curated gradients for designers and developers.  
+
 ## GeoJSON
 * [GeoJSON.io](http://geojson.io): A quick, simple tool for creating (points/lines/polygons), editing, and viewing GeoJSON files. It supports GeoJSON in all ways, and works with a variety of formats (e.g. KML, GPX, CSV, TopoJSON, etc.).  
 * [JSON Editor Online](http://jsoneditoronline.org): View, edit, and format JSON files. It has various modes such as a tree editor, a code editor, and a plain text editor.  
