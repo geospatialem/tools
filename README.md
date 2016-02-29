@@ -53,3 +53,6 @@
 
 ### Python
 * [Visualize Python](http://pythontutor.com/visualize.html): Visualize and step through Python, or other programming languages. You can also perform tests with your code.
+
+### SQL
+* [Instant SQL Formatter](http://www.dpriver.com/pp/sqlformat.htm): SQL tidy tool, and even turn it into HTML!
