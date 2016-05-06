@@ -1,5 +1,6 @@
 # Tools
 
+* **In-browser Scratchpad:** `data:text/html, <html contenteditable>`    
 * [E.gg Timer](http://e.ggtimer.com): A simple countdown timer.
 * [Emoji's](http://getemoji.com): Copy/paste into fun places like the Twitters, and slides.com. Also, just 'cause.
 * [Markdown Emoji's](http://www.emoji-cheat-sheet.com): Copy/paste emojis for Markdown.
