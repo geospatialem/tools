@@ -52,7 +52,8 @@
 
 ### JavaScript
 * [HTML to JavaScript Convertor](http://accessify.com/tools-and-wizards/developer-tools/html-javascript-convertor): Take HTML markup and convert it to a series of document.write() statements, and/or string variables that you can use in a block of JavaScript.
-* [JavaScript Variable Name Validator](https://mothereff.in/js-variables)
+* [JavaScript Variable Name Validator](https://mothereff.in/js-variables)  
+* [Gentle explanation of 'this' keyword in JavaScript](http://rainsoft.io/gentle-explanation-of-this-in-javascript): A thorough article that goes into a lot of detail on `this`.
 
 ### Python  
 * [Scientific Python Cheat Sheet](https://ipgp.github.io/scientific_python_cheat_sheet): Simple overview of python, numpy, scipy, matplotlib functions that are useful for scientific work. Tries to keep examples as compact as possible.    
