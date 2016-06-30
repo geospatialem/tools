@@ -44,6 +44,9 @@
 * [A Beginner's Guide to Open Source: The Best Advice for Making Your First Contribution](http://www.erikaheidi.com/blog/a-beginners-guide-to-open-source-making-your-first-contribution), article    
 * [The Real Benefits of Engaging in Open Source](http://www.erikaheidi.com/blog/the-real-benefits-of-engaging-in-open-source), article
 
+### Bootstrap
+* [TWBSColor](http://work.smarchal.com/twbscolor/index.php): Generate your own Bootstrap navbar  
+
 ### Command Line
 * [The Command Line Crash Course](http://cli.learncodethehardway.org/book)
 
