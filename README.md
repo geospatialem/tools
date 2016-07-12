@@ -16,6 +16,7 @@
 * [Coolors](https://coolors.co/app): The super fast color schemes generator for cool designers.  
 * [Gradients.io](http://www.gradients.io): Curated gradients for designers and developers.  
 * [CMYK to RBG Converter](http://www.ginifab.com/feeds/pms/cmyk_to_rgb.php): Convert from CMYK to RGB, and HEX. Super useful when trying to get HEX codes from Esri products to the web.
+* [Palettable](http://www.palettable.io): Generate color palettes using the knowledge of millions of designers.  
 
 ## GeoJSON
 * [GeoJSON.io](http://geojson.io): A quick, simple tool for creating (points/lines/polygons), editing, and viewing GeoJSON files. It supports GeoJSON in all ways, and works with a variety of formats (e.g. KML, GPX, CSV, TopoJSON, etc.).  
