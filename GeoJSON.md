@@ -5,3 +5,4 @@
 * [Thomas Frank JSON Editor](http://www.thomasfrank.se/downloadableJS/JSONeditor_example.html): This editor allows you to get a good overview of a JSON structure and make changes to it easily through a tree view.  
 * [Ogre](http://ogre.adc4gis.com): A ogr2ogr web client to export to GeoJSON.  
 * [GeoJSON <> ArcJSON](http://brightrain.github.io/geoconverter): Convert between GeoJSON and ArcJSON.  
+* [JSON Path Online Evaluator](http://jsonpath.com): A playground for JSON Path.  
