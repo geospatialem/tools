@@ -17,7 +17,7 @@
 * [CSS Lint](http://csslint.net)  
 * [How Well Do You Know CSS Display](https://www.chenhuijing.com/blog/how-well-do-you-know-display)  
 * [The :target Trick](https://bitsofco.de/the-target-trick)  
-* [Use Cases for CSS Verticla Media Queries](https://ishadeed.com/article/vertical-media-queries)  
+* [Use Cases for CSS Vertical Media Queries](https://ishadeed.com/article/vertical-media-queries)  
 
 ## JavaScript  
 * [HTML to JavaScript Convertor](http://accessify.com/tools-and-wizards/developer-tools/html-javascript-convertor): Take HTML markup and convert it to a series of document.write() statements, and/or string variables that you can use in a block of JavaScript.  
