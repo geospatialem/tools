@@ -15,6 +15,8 @@
 
 ## CSS  
 * [CSS Lint](http://csslint.net)  
+* [How Well Do You Know CSS Display](https://www.chenhuijing.com/blog/how-well-do-you-know-display)  
+* [The :target Trick](https://bitsofco.de/the-target-trick)  
 
 ## JavaScript  
 * [HTML to JavaScript Convertor](http://accessify.com/tools-and-wizards/developer-tools/html-javascript-convertor): Take HTML markup and convert it to a series of document.write() statements, and/or string variables that you can use in a block of JavaScript.  
