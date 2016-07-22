@@ -6,3 +6,5 @@
 * [Ogre](http://ogre.adc4gis.com): A ogr2ogr web client to export to GeoJSON.  
 * [GeoJSON <> ArcJSON](http://brightrain.github.io/geoconverter): Convert between GeoJSON and ArcJSON.  
 * [JSON Path Online Evaluator](http://jsonpath.com): A playground for JSON Path.  
+* [JSON: How To](http://www.w3schools.com/json/json_eval.asp): How to use JSON objects, in particular information about `eval()` and how to get JSON text into a JavaScript object.  
+* [JSON Parse Playground](http://www.w3schools.com/json/tryit.asp?filename=tryjson_parse): Playground for creating JavaScript objects from JSON strings.  
