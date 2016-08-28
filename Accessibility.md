@@ -1,3 +1,3 @@
 # Accessibility    
 
-* [Tenon.io](http://www.tenon.io): Test a site's accessibility.  
+* [Random A11y Color Palettes](https://randoma11y.com): Vote on which a11y friendly color combinations look nice.  
