@@ -9,4 +9,5 @@
 
 * [Vector tile service](https://github.com/klokantech/tileserver-gl): Announced at FOSS4G: Bonn, forwarded by Bitner. It serves vector tiles as both vector tiles and as rendered raster tiles from osm2vectortiles.
 * [Stamen's Watercolor Process](https://hi.stamen.com/watercolor-process-3dd5135861fe#.hxaldn3t3): How Stamen created their watercolor basemap.  
-* [Esri: How It's Made: Team Basemaps](https://geonet.esri.com/people/GRehkemper-esristaff/blog/2016/08/13/how-its-made-team-basemaps#.V69Q4yRPiAo.twitter)   
+* [Esri: How It's Made: Team Basemaps](https://geonet.esri.com/people/GRehkemper-esristaff/blog/2016/08/13/how-its-made-team-basemaps#.V69Q4yRPiAo.twitter)  
+* [Converting Mapbox Studio Vector Tiles to Rasters](https://www.azavea.com/blog/2015/05/29/converting-mapbox-studio-vector-tiles-to-rasters-2/)  
