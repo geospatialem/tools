@@ -6,6 +6,7 @@
 * [Contributing to Open Source on GitHub](https://guides.github.com/activities/contributing-to-open-source)  
 * [A Beginner's Guide to Open Source: The Best Advice for Making Your First Contribution](http://www.erikaheidi.com/blog/a-beginners-guide-to-open-source-making-your-first-contribution), article    
 * [The Real Benefits of Engaging in Open Source](http://www.erikaheidi.com/blog/the-real-benefits-of-engaging-in-open-source), article  
+* [HTML Cheat Sheet](https://hostingfacts.com/wp-content/uploads/2016/06/hf-html-cheat-sheet.pdf)  
 
 ## Bootstrap  
 * [TWBSColor](http://work.smarchal.com/twbscolor/index.php): Generate your own Bootstrap navbar.  
@@ -16,6 +17,7 @@
 ## CSS  
 * [CSS Lint](http://csslint.net)  
 * [How Well Do You Know CSS Display](https://www.chenhuijing.com/blog/how-well-do-you-know-display)  
+* [How to center in CSS](http://howtocenterincss.com)  
 * [The :target Trick](https://bitsofco.de/the-target-trick)  
 * [Use Cases for CSS Vertical Media Queries](https://ishadeed.com/article/vertical-media-queries)  
 * [Using Feature Queries in CSS](https://hacks.mozilla.org/2016/08/using-feature-queries-in-css/): Feature queries, aka `@supports` rule.  
