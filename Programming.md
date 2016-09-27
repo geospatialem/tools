@@ -22,6 +22,7 @@
 * [Use Cases for CSS Vertical Media Queries](https://ishadeed.com/article/vertical-media-queries)  
 * [Using Feature Queries in CSS](https://hacks.mozilla.org/2016/08/using-feature-queries-in-css/): Feature queries, aka `@supports` rule.
 * [CSS Positioning Explained by Building an Ice Cream Sundae](https://medium.freecodecamp.com/css-positioning-explained-by-building-an-ice-cream-sundae-831cb884bfa9)   
+* [Common CSS Mistakes and How to Fix Them](https://blog.mariano.io/common-css-mistakes-and-how-to-fix-them-8ee0f5e88d64)  
 
 ## JavaScript  
 * [HTML to JavaScript Convertor](http://accessify.com/tools-and-wizards/developer-tools/html-javascript-convertor): Take HTML markup and convert it to a series of document.write() statements, and/or string variables that you can use in a block of JavaScript.  
