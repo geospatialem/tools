@@ -6,3 +6,4 @@
 * [Gradients.io](http://www.gradients.io): Curated gradients for designers and developers.  
 * [CMYK to RBG Converter](http://www.ginifab.com/feeds/pms/cmyk_to_rgb.php): Convert from CMYK to RGB, and HEX. Super useful when trying to get HEX codes from Esri products to the web.  
 * [Palettable](http://www.palettable.io): Generate color palettes using the knowledge of millions of designers.  
+* [Open Colors](https://yeun.github.io/open-color): Color scheme for UI design, designed with color blind users in mind.  
