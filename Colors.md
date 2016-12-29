@@ -8,4 +8,4 @@
 * [Palettable](http://www.palettable.io): Generate color palettes using the knowledge of millions of designers.  
 * [Open Colors](https://yeun.github.io/open-color): Color scheme for UI design, designed with color blind users in mind.  
 * [The Influence of Color](https://medium.com/shades-of-gray/the-influence-of-color-52eea4dfa9fc) (article): Choosing a palette in photography.  
-[HEX to RGB](http://www.webpagefx.com/web-design/hex-to-rgb): Transform HEX to RGB, or vice-versa!  
+* [HEX to RGB](http://www.webpagefx.com/web-design/hex-to-rgb): Transform HEX to RGB, or vice-versa!  
