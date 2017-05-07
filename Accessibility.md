@@ -7,3 +7,4 @@
 * [A Todo List for Developers on Accessibility](https://inclusive-components.design/a-todo-list)  
 * [15 Inspiring Talks on Inclusive Design](http://uxmastery.com/15-inspiring-talks-on-inclusive-design)  
 * [What the Heck is Inclusive Design?](https://24ways.org/2016/what-the-heck-is-inclusive-design), _blog post_  
+* [Automating peace of mind with Accessibility Testing & Continuous Integration](https://marcysutton.github.io/a11y-and-ci/#), _presentation_    
