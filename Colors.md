@@ -12,3 +12,4 @@
 * [When two colours can be one](https://bjango.com/articles/whentwocolourscanbeone), article: Many user interfaces have dark and light themes. Having a dark and light theme usually means defining a full set of colours, and switching them when the theme switches.  
 * [RGB/Hexadecimal Tint Calculator](http://www.brandwares.com/RGBTintCalculator.php): For the [State of Minnesota's branding document](https://mn.gov/mmb-stat/branding/style-guide/minnesota-state-brand-style-guide-2016.pdf)'s page 11  
 * [Color Name & Hue](http://www.color-blindness.com/color-name-hue): Color name look-up tool.  
+* [Ambiance: More than... Color Palettes](http://ambiance.somethingjustlikethis.com)  
