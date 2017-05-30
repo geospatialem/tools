@@ -9,3 +9,4 @@
 * [What the Heck is Inclusive Design?](https://24ways.org/2016/what-the-heck-is-inclusive-design), _blog post_  
 * [Automating peace of mind with Accessibility Testing & Continuous Integration](https://marcysutton.github.io/a11y-and-ci/#), _presentation_    
 * [Color and Color Contrast Testing Methods](https://ebay.gitbooks.io/oatmeal/color-contrast/?utm_campaign=chrome_series_oatmealcolor_050417), _list_  
+* [9 tips to get bare minimum of web accessibility](https://medium.com/@realabhijeet4u/9-tips-to-get-bare-minimum-of-web-accessibility-739899a9437c), _blog post_  
