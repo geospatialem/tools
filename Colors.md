@@ -13,3 +13,5 @@
 * [RGB/Hexadecimal Tint Calculator](http://www.brandwares.com/RGBTintCalculator.php): For the [State of Minnesota's branding document](https://mn.gov/mmb-stat/branding/style-guide/minnesota-state-brand-style-guide-2016.pdf)'s page 11  
 * [Color Name & Hue](http://www.color-blindness.com/color-name-hue): Color name look-up tool.  
 * [Ambiance: More than... Color Palettes](http://ambiance.somethingjustlikethis.com)  
+* [Color blends are back in fashion, and these 30 will give you a colorgasm](https://blog.prototypr.io/https-medium-com-colorblends-aebda77c8742): Color blends!  
+* [I want Hue](http://tools.medialab.sciences-po.fr/iwanthue): Colors for data scientists. Generate and refine palettes of optimally distinct colors including color blind palettes. Via the amazing [Ashley Ignatius](https://twitter.com/snowflakesinmay)  
