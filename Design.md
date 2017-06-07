@@ -6,3 +6,4 @@
 * [Hating Comic Sans is Ableist](https://theestablishment.co/hating-comic-sans-is-ableist-bc4a4de87093), _blog post_  
 * [100 Ways to be More Creative](https://medium.com/the-mission/100-ways-to-be-more-creative-bbaa99643fe5)  
 * [10 Reasons Why All Designers Should Start Writing More](https://blog.prototypr.io/10-reasons-why-all-designers-should-start-writing-more-f34646a6e06b): The new habits you'll start doing and the career benefits you'll get from them.  
+* [25 Minute Design School - The Ultimate Crash Course in Digital Product Design](https://medium.muz.li/23-minute-design-school-6c938dd97f2b), _blog post_  
