@@ -11,3 +11,4 @@
 * [Color and Color Contrast Testing Methods](https://ebay.gitbooks.io/oatmeal/color-contrast/?utm_campaign=chrome_series_oatmealcolor_050417), _list_  
 * [9 tips to get bare minimum of web accessibility](https://medium.com/@realabhijeet4u/9-tips-to-get-bare-minimum-of-web-accessibility-739899a9437c), _blog post_  
 * [Fundamentals in Mapping: Tactual Mapping](http://www.icsm.gov.au/mapping/tactual_mapping.html#guide): Via the amazing [Ashley Ignatius](https://twitter.com/snowflakesinmay)  
+* [Ridiculously easy trick for keyboard accessibility](http://www.karlgroves.com/2014/11/24/ridiculously-easy-trick-for-keyboard-accessibility): Click **AND** keycode use for keyboard users (tabbing and using either the spacebar or enter to proceed).  
