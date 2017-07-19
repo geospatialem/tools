@@ -15,3 +15,4 @@
 * [Ambiance: More than... Color Palettes](http://ambiance.somethingjustlikethis.com)  
 * [Color blends are back in fashion, and these 30 will give you a colorgasm](https://blog.prototypr.io/https-medium-com-colorblends-aebda77c8742): Color blends!  
 * [I want Hue](http://tools.medialab.sciences-po.fr/iwanthue): Colors for data scientists. Generate and refine palettes of optimally distinct colors including color blind palettes. Via the amazing [Ashley Ignatius](https://twitter.com/snowflakesinmay)  
+* [Use Contrast](https://usecontrast.com): MacOS app for quick access to WCAG color contrast ratios.  
