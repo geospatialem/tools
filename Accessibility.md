@@ -13,3 +13,4 @@
 * [Fundamentals in Mapping: Tactual Mapping](http://www.icsm.gov.au/mapping/tactual_mapping.html#guide): Via the amazing [Ashley Ignatius](https://twitter.com/snowflakesinmay)  
 * [Ridiculously easy trick for keyboard accessibility](http://www.karlgroves.com/2014/11/24/ridiculously-easy-trick-for-keyboard-accessibility): Click **AND** keycode use for keyboard users (tabbing and using either the spacebar or enter to proceed).  
 * [WCAG 2.0 AA – Top 5 Criteria to Consider as a Web Developer](https://blogs.esri.com/esri/arcgis/2015/10/30/wcag-top-5-criteria-to-consider-as-a-web-developer), _Esri blog post_  
+* [Removing that ugly :focus ring (and keeping it too)](https://hackernoon.com/removing-that-ugly-focus-ring-and-keeping-it-too-6c8727fefcd2)
