@@ -6,6 +6,9 @@
 * [Google + Bing Maps Dual-viewer](http://data.mapchannels.com/mm/dual2/map.htm): Pretty much amazing, view Google maps and Bing maps side-by-side in browser.  
 * [BBox Finder](http://bboxfinder.com): Helper page for finding bbox values from a map to help with interaction with tools like gdal, leaflet, openlayers, etc.  
 
+## General  
+* [A wholly incomplete visual guide on how to use icons on things](https://blog.prototypr.io/a-wholly-incomplete-visual-guide-on-how-to-use-icons-on-things-ad2a4f1f614b)  
+
 ## Basemaps  
 
 * [Vector tile service](https://github.com/klokantech/tileserver-gl): Announced at FOSS4G: Bonn, forwarded by Bitner. It serves vector tiles as both vector tiles and as rendered raster tiles from osm2vectortiles.
