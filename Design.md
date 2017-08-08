@@ -11,3 +11,4 @@
 * [Evolution of an app](https://m.timingapp.com/evolution-of-a-mac-app-through-20-alphas-and-10-betas-4380f69d8ee1): Lessons learned from an evolving app through 20 alpha and 10 beta releases, _blog post_
 * [Empty States? More like You-Have-No-Idea-How-Much-Work-Goes-Into-Those States, amirite??](https://ux.shopify.com/empty-states-more-like-you-have-no-idea-how-much-work-goes-into-those-states-amirite-e0102f58b64e): Seriously an **AMAZING** blog post on details. **READ THIS ALL THE TIME!!**  
 * [100 Questions Designers Always Ask](https://medium.com/ux-power-tools/100-questions-designers-always-ask-8b9f441bcd35)  
+* [18 Things I Wish I'd Known When Starting Out in UX Design](https://medium.springboard.com/17-things-you-need-to-know-starting-out-in-ux-design-216505f2f1d3)  
