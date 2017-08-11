@@ -9,6 +9,7 @@
 * [HTML Cheat Sheet](https://hostingfacts.com/wp-content/uploads/2016/06/hf-html-cheat-sheet.pdf)  
 * [Device Viewports](http://www.canbike.org/CSSpixels)  
 * [mapskin](http://mapsk.in): Free and open geospatial font icon library, like Font Awesome.  
+* [JavaScript Event KeyCodes](http://keycode.info)  
 
 ## Bootstrap  
 * [TWBSColor](http://work.smarchal.com/twbscolor/index.php): Generate your own Bootstrap navbar.  
