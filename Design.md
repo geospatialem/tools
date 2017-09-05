@@ -14,3 +14,4 @@
 * [18 Things I Wish I'd Known When Starting Out in UX Design](https://medium.springboard.com/17-things-you-need-to-know-starting-out-in-ux-design-216505f2f1d3)  
 * [“As a user” needs to stop](https://blog.prototypr.io/stop-it-with-as-a-user-5feb9b38d920)
 * [You Don't Need to Know Everything About UX](https://uxdesign.cc/you-dont-need-to-know-everything-about-ux-9b7abd686ef0)  
+* [UX Process: What It Is, What It Looks Like and Why It's Important](https://medium.com/thinking-design/ux-process-what-it-is-what-it-looks-like-and-why-its-important-290640e69531), _blog post_  
