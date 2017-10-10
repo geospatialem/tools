@@ -16,3 +16,4 @@
 * [You Don't Need to Know Everything About UX](https://uxdesign.cc/you-dont-need-to-know-everything-about-ux-9b7abd686ef0)  
 * [UX Process: What It Is, What It Looks Like and Why It's Important](https://medium.com/thinking-design/ux-process-what-it-is-what-it-looks-like-and-why-its-important-290640e69531), _blog post_  
 * [Moving From Graphic Design to UX Design: The Complete Guide to Career Change](https://medium.com/thinking-design/moving-from-graphic-design-to-ux-design-the-complete-guide-to-career-change-ce645b68f858), _blog post_    
+* [How to Stay Creative](https://blog.prototypr.io/how-to-stay-creative-1a70ea0f9ca5), _blog post_  
