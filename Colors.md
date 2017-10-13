@@ -17,3 +17,5 @@
 * [I want Hue](http://tools.medialab.sciences-po.fr/iwanthue): Colors for data scientists. Generate and refine palettes of optimally distinct colors including color blind palettes. Via the amazing [Ashley Ignatius](https://twitter.com/snowflakesinmay)  
 * [Use Contrast](https://usecontrast.com): MacOS app for quick access to WCAG color contrast ratios.  
 * [Panoply Color tables](https://www.giss.nasa.gov/tools/panoply/colorbars): Created by NASA's Goddard Institute for Space Studies.  
+* [Text on Background Image a11y Checker](http://www.brandwood.com/a11y): A guide to foreground color accessibility on a background image. Upload an image and add text to see accessibility contrast compliance against AA and AAA guidance.  
+
