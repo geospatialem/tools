@@ -10,6 +10,7 @@
 * [Device Viewports](http://www.canbike.org/CSSpixels)  
 * [mapskin](http://mapsk.in): Free and open geospatial font icon library, like Font Awesome.  
 * [JavaScript Event KeyCodes](http://keycode.info)  
+* [Prettier](https://prettier.io/playground): Opinionated Code Formatter.  
 
 ## Bootstrap  
 * [TWBSColor](http://work.smarchal.com/twbscolor/index.php): Generate your own Bootstrap navbar.  
