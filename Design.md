@@ -17,3 +17,4 @@
 * [UX Process: What It Is, What It Looks Like and Why It's Important](https://medium.com/thinking-design/ux-process-what-it-is-what-it-looks-like-and-why-its-important-290640e69531), _blog post_  
 * [Moving From Graphic Design to UX Design: The Complete Guide to Career Change](https://medium.com/thinking-design/moving-from-graphic-design-to-ux-design-the-complete-guide-to-career-change-ce645b68f858), _blog post_    
 * [How to Stay Creative](https://blog.prototypr.io/how-to-stay-creative-1a70ea0f9ca5), _blog post_  
+* [Hey, can you 'do the UX' for us?](https://uxdesign.cc/hey-can-you-do-the-ux-for-us-432a38eac295), _blog post_ **EVERYTHING THIS**  
