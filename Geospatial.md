@@ -17,3 +17,7 @@
 * [Esri: How It's Made: Team Basemaps](https://geonet.esri.com/people/GRehkemper-esristaff/blog/2016/08/13/how-its-made-team-basemaps#.V69Q4yRPiAo.twitter)  
 * [Converting Mapbox Studio Vector Tiles to Rasters](https://www.azavea.com/blog/2015/05/29/converting-mapbox-studio-vector-tiles-to-rasters-2/)  
 * [Customizing Esri's Vector Basemaps](https://arcgis-content.maps.arcgis.com/apps/Cascade/index.html?appid=a74a8b251f6141fa9561041d36ea56e3): Esri Story map 4-part series describing vector tiles.  
+
+
+## Programming
+* [ArcGIS JavaScript API: Migrating to AMD-style JavaScript](http://geo-odyssey.com/links/WLIA%20Presentation/index.html), _presentation by [Chris Cantey](https://twitter.com/chriscantey)_  
