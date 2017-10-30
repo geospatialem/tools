@@ -18,3 +18,6 @@
 * [Moving From Graphic Design to UX Design: The Complete Guide to Career Change](https://medium.com/thinking-design/moving-from-graphic-design-to-ux-design-the-complete-guide-to-career-change-ce645b68f858), _blog post_    
 * [How to Stay Creative](https://blog.prototypr.io/how-to-stay-creative-1a70ea0f9ca5), _blog post_  
 * [Hey, can you 'do the UX' for us?](https://uxdesign.cc/hey-can-you-do-the-ux-for-us-432a38eac295), _blog post_ **EVERYTHING THIS**  
+* [The subtle art that differentiates good designers from great designers](https://uxplanet.org/the-subtle-art-that-differentiates-good-designers-from-great-designers-1ad3557b4c4), _blog post_  
+  * `“The ability to simplify means to eliminate the unnecessary so that the necessary may speak,” ―Hans Hofmann`  
+  * `"Not everybody can be famous. But everybody can be great because greatness is determined by service. ―Martin Luther King Jr.`
