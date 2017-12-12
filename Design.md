@@ -21,4 +21,5 @@
 * [The subtle art that differentiates good designers from great designers](https://uxplanet.org/the-subtle-art-that-differentiates-good-designers-from-great-designers-1ad3557b4c4), _blog post_  
   * `“The ability to simplify means to eliminate the unnecessary so that the necessary may speak,” ―Hans Hofmann`  
   * `"Not everybody can be famous. But everybody can be great because greatness is determined by service. ―Martin Luther King Jr.`
-* [The Most Important Rule in UX Design that Everyone Breaks](https://blog.prototypr.io/the-most-important-rule-in-ux-design-that-everyone-breaks-1c1cb188931), _blog post_
+* [The Most Important Rule in UX Design that Everyone Breaks](https://blog.prototypr.io/the-most-important-rule-in-ux-design-that-everyone-breaks-1c1cb188931), _blog post_  
+* [What My Cat Taught Me About Product Design](https://blog.prototypr.io/what-my-cat-taught-me-about-product-design-f2c6b5037ddb), _blog post_  
