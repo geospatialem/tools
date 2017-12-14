@@ -12,3 +12,4 @@
 * [Becoming comfortable with discomfort](https://louderthanten.com/coax/becoming-comfortable-with-discomfort), _blog post_  
 * [Interview and question techniques](https://blog.prototypr.io/what-ux-researchers-can-learn-from-louis-theroux-69db740d63ba), _blog post_  
 * [13 Things You Should Give Up If You Want To Be a Successful UX Designer](https://uxplanet.org/12-things-you-should-give-up-if-you-want-to-be-a-successful-ux-designer-f5bc8581a848), _blog post_  
+* [The vicious circle of mediocre work, And how to break out of it](https://medium.com/swlh/the-vicious-circle-of-mediocre-work-c15e98a30798), _blog post_  
