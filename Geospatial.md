@@ -9,6 +9,7 @@
 ## General  
 * [A wholly incomplete visual guide on how to use icons on things](https://blog.prototypr.io/a-wholly-incomplete-visual-guide-on-how-to-use-icons-on-things-ad2a4f1f614b)  
 * [Mapping the reality of the world](https://blog.prototypr.io/mapping-the-reality-of-the-world-df7ad81ccb54): How early maps and our own mental maps can shape the design of our physical and digital worlds.  
+* [Google Map's Moat](https://www.justinobeirne.com/google-maps-moat): How far ahead of Apple Maps is Google Maps? _blog post_  
 
 ## Basemaps  
 
