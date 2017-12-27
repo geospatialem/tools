@@ -23,3 +23,4 @@
   * `"Not everybody can be famous. But everybody can be great because greatness is determined by service. ―Martin Luther King Jr.`
 * [The Most Important Rule in UX Design that Everyone Breaks](https://blog.prototypr.io/the-most-important-rule-in-ux-design-that-everyone-breaks-1c1cb188931), _blog post_  
 * [What My Cat Taught Me About Product Design](https://blog.prototypr.io/what-my-cat-taught-me-about-product-design-f2c6b5037ddb), _blog post_  
+* [Photoshop For Designers Who Don't Use Photoshop.com](https://photoshopfordesignerswhodontusephotoshop.com)  
