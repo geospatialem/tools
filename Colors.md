@@ -19,4 +19,5 @@
 * [Panoply Color tables](https://www.giss.nasa.gov/tools/panoply/colorbars): Created by NASA's Goddard Institute for Space Studies.  
 * [Text on Background Image a11y Checker](http://www.brandwood.com/a11y): A guide to foreground color accessibility on a background image. Upload an image and add text to see accessibility contrast compliance against AA and AAA guidance.  
 * [CARTOColors](https://carto.com/carto-colors): A set of custom color palettes built on top of well-known standards for color use on maps, with next generation enhancements for the web and CARTO basemaps including: sequential, diverging, and qualitative schemes.  
+* [COLORWISE](https://colorwise.io/?topic=Maps&sort=trending):  The wise choice of colors (topic: maps!).  
 
