@@ -15,6 +15,10 @@
 * [Removing that ugly :focus ring (and keeping it too)](https://hackernoon.com/removing-that-ugly-focus-ring-and-keeping-it-too-6c8727fefcd2)
 * [Tips for making accessibility a core design principle](https://medium.com/pixel-pioneers/tips-for-making-accessibility-a-core-design-principle-113bee25f872)  
 
+
+## Lessons Learned  
+* [What my color-blindness taught me about design](https://uxdesign.cc/what-my-color-blindness-taught-me-about-design-d3009a93ff9c), _blog post_  
+
 ## Tools  
 * [Random A11y Color Palettes](https://randoma11y.com): Vote on which a11y friendly color combinations look nice.  
 * [Web Accessibility Evaluation Tools List](https://www.w3.org/WAI/ER/tools)  
