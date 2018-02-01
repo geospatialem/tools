@@ -27,3 +27,4 @@
 * [Taking on the Daily UI Challenge](https://blog.prototypr.io/taking-on-the-daily-ui-challenge-f49fc70632ea?ref=prototyprio): From being a perfectionist to just pushing pure content, _blog post_  
 * [Empathy Mapping: The First Step in Design Thinking](https://www.nngroup.com/articles/empathy-mapping)  
 * [What Data Visualization Has Taught Me So Far](https://hackernoon.com/what-data-visualisation-has-taught-me-so-far-daf750dcfbab)  
+* [Make me think!](https://blog.prototypr.io/make-me-think-90b46aa50513), _blog post_  
