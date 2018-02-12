@@ -11,6 +11,7 @@
 * [mapskin](http://mapsk.in): Free and open geospatial font icon library, like Font Awesome.  
 * [JavaScript Event KeyCodes](http://keycode.info)  
 * [Prettier](https://prettier.io/playground): Opinionated Code Formatter.  
+* [Everything Easy is Hard Again](https://frankchimero.com/writing/everything-easy-is-hard-again), _blog post_  
 
 ## Bootstrap  
 * [TWBSColor](http://work.smarchal.com/twbscolor/index.php): Generate your own Bootstrap navbar.  
