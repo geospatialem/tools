@@ -15,6 +15,7 @@
 * [Removing that ugly :focus ring (and keeping it too)](https://hackernoon.com/removing-that-ugly-focus-ring-and-keeping-it-too-6c8727fefcd2)
 * [Tips for making accessibility a core design principle](https://medium.com/pixel-pioneers/tips-for-making-accessibility-a-core-design-principle-113bee25f872)  
 * [How To Design For Everyone in 3 Steps](https://www.fastcodesign.com/90160000/how-to-design-for-everyone-in-3-steps)  
+* [A Primer to Web Accessibility for Designers](https://uxplanet.org/a-primer-to-web-accessibility-for-designers-2c548448c612): **GREAT resource!!**  
 
 
 ## Lessons Learned  
