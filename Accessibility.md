@@ -17,6 +17,7 @@
 * [How To Design For Everyone in 3 Steps](https://www.fastcodesign.com/90160000/how-to-design-for-everyone-in-3-steps)  
 * [A Primer to Web Accessibility for Designers](https://uxplanet.org/a-primer-to-web-accessibility-for-designers-2c548448c612): **GREAT resource!!**  
 * [Designing Accessible Navigations](https://uxplanet.org/designing-accessible-navigations-3b1a151d3bd7)  
+* [Waking up to Digital Accessibility, How the CSUN Assistive Technology Conference Helped Me](https://medium.com/@lclark070607/waking-up-to-digital-accessibility-how-the-the-csun-assistive-technologies-conference-helped-me-ec4d5f4e017f), _blog post_  
 
 
 ## Lessons Learned  
