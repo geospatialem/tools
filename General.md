@@ -14,3 +14,4 @@
 * [13 Things You Should Give Up If You Want To Be a Successful UX Designer](https://uxplanet.org/12-things-you-should-give-up-if-you-want-to-be-a-successful-ux-designer-f5bc8581a848), _blog post_  
 * [The vicious circle of mediocre work, And how to break out of it](https://medium.com/swlh/the-vicious-circle-of-mediocre-work-c15e98a30798), _blog post_  
 * [The Laws of UX](https://lawsofux.com)  
+* [How to Figure Out if Your Product Actually Solves Problems](https://medium.com/zajnocrew/delicious-digital-design-process-d16fdc3660d8), _blog post_    
