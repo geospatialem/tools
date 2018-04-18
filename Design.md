@@ -28,4 +28,4 @@
 * [Empathy Mapping: The First Step in Design Thinking](https://www.nngroup.com/articles/empathy-mapping)  
 * [What Data Visualization Has Taught Me So Far](https://hackernoon.com/what-data-visualisation-has-taught-me-so-far-daf750dcfbab)  
 * [Make me think!](https://blog.prototypr.io/make-me-think-90b46aa50513), _blog post_  
-* [Delicious Digital Design Process](https://medium.com/zajnocrew/delicious-digital-design-process-d16fdc3660d8)  
+* [Delicious Digital Design Process](https://medium.com/zajnocrew/delicious-digital-design-process-d16fdc3660d8), _blog post_  
