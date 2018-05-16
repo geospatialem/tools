@@ -19,6 +19,7 @@
 * [Designing Accessible Navigations](https://uxplanet.org/designing-accessible-navigations-3b1a151d3bd7)  
 * [Waking up to Digital Accessibility, How the CSUN Assistive Technology Conference Helped Me](https://medium.com/@lclark070607/waking-up-to-digital-accessibility-how-the-the-csun-assistive-technologies-conference-helped-me-ec4d5f4e017f), _blog post_  
 * [Hand tremors and the giant-button-problem](https://axesslab.com/hand-tremors), _blog post_  
+* [The blog post behind GAAD](https://mysqltalk.wordpress.com/2011/11/27/challenge-accessibility-know-how-needs-to-go-mainstream-with-developers-now/?dm_i=3SCI,EH4B,44Q55K,1J1F1,1)  
 
 
 ## Lessons Learned  
