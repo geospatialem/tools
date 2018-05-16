@@ -15,3 +15,4 @@
 * [The vicious circle of mediocre work, And how to break out of it](https://medium.com/swlh/the-vicious-circle-of-mediocre-work-c15e98a30798), _blog post_  
 * [The Laws of UX](https://lawsofux.com)  
 * [How to Figure Out if Your Product Actually Solves Problems](https://medium.com/zajnocrew/delicious-digital-design-process-d16fdc3660d8), _blog post_    
+* [The user experience of choosing the simplest possible words](https://uxdesign.cc/the-user-experience-of-choosing-the-simplest-possible-words-90628a3c4a44), _blog post_  
