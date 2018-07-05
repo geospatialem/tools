@@ -23,7 +23,8 @@
 
 
 ## Lessons Learned  
-* [What my color-blindness taught me about design](https://uxdesign.cc/what-my-color-blindness-taught-me-about-design-d3009a93ff9c), _blog post_  
+* [What my color-blindness taught me about design](https://uxdesign.cc/what-my-color-blindness-taught-me-about-design-d3009a93ff9c), _blog post_ 
+* [Designing for accessibility is not that hard](https://uxdesign.cc/designing-for-accessibility-is-not-that-hard-c04cc4779d94), _blog post_, Seven easy-to-implement guidelines to design a more accessible web ❤️    
 
 ## Tools  
 * [Random A11y Color Palettes](https://randoma11y.com): Vote on which a11y friendly color combinations look nice.  
