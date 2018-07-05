@@ -29,3 +29,4 @@
 * [What Data Visualization Has Taught Me So Far](https://hackernoon.com/what-data-visualisation-has-taught-me-so-far-daf750dcfbab)  
 * [Make me think!](https://blog.prototypr.io/make-me-think-90b46aa50513), _blog post_  
 * [Delicious Digital Design Process](https://medium.com/zajnocrew/delicious-digital-design-process-d16fdc3660d8), _blog post_  
+* [Why Design Thinking is failing and what we should be doing differently](https://uxdesign.cc/why-design-thinking-is-failing-and-what-we-should-be-doing-differently-c8842f843b44), _blog post_  
