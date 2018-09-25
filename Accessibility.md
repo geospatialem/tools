@@ -21,6 +21,7 @@
 * [Hand tremors and the giant-button-problem](https://axesslab.com/hand-tremors), _blog post_  
 * [The blog post behind GAAD](https://mysqltalk.wordpress.com/2011/11/27/challenge-accessibility-know-how-needs-to-go-mainstream-with-developers-now/?dm_i=3SCI,EH4B,44Q55K,1J1F1,1)  
 * [4 Principles, How to get started with website accessibility](https://medium.freecodecamp.org/4-principles-for-getting-started-with-website-accessibility-4e85f75730b)  
+* [Products mocked as “lazy” or “useless” are often important tools for people with disabilities](https://www.vox.com/the-goods/2018/9/20/17791354/products-people-disabilities-sock-slider-banana-slicer-lazy), _blog post_  
 
 
 ## Lessons Learned  
