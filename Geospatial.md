@@ -12,6 +12,13 @@
 * [Google Map's Moat](https://www.justinobeirne.com/google-maps-moat): How far ahead of Apple Maps is Google Maps? _blog post_  
 * [What London’s Underground Map Can Teach You About Design](https://uxplanet.org/what-londons-underground-map-can-teach-you-about-design-7178cc4e4c39), _blog post_  
 
+## Project Management
+* [Preparing a Map File for Printing](http://www.mynameiskate.com/public/Printing_Maps_FilePrepChecklist.pdf),  _Document presented at NACIS 2018 by Bruce Dnaiel & Kate Leroux_
+![Preparing a Map File for Printing](https://user-images.githubusercontent.com/5023024/47229264-ee32f800-d38c-11e8-9efc-32436b0d92e8.PNG)
+* [Developing for Cartographers](https://docs.google.com/presentation/d/1iPj1wkHez-yTMqpENaW0WLDOvGB2WCsaatHgqWPKIo0/edit#slide=id.g4500ffde37_0_431), _Slides presented at NACIS 2018 by Katie Kowalsky_  
+![capture](https://user-images.githubusercontent.com/5023024/47229329-17538880-d38d-11e8-865a-3e4f227d410c.PNG)  
+
+
 ## Basemaps  
 
 * [Vector tile service](https://github.com/klokantech/tileserver-gl): Announced at FOSS4G: Bonn, forwarded by Bitner. It serves vector tiles as both vector tiles and as rendered raster tiles from osm2vectortiles.
