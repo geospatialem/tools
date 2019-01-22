@@ -5,6 +5,7 @@
 * [The True Size](http://thetruesize.com): Projection distortion. Move geographies to see how'd they look in different parts of the world.  
 * [Google + Bing Maps Dual-viewer](http://data.mapchannels.com/mm/dual2/map.htm): Pretty much amazing, view Google maps and Bing maps side-by-side in browser.  
 * [BBox Finder](http://bboxfinder.com): Helper page for finding bbox values from a map to help with interaction with tools like gdal, leaflet, openlayers, etc.  
+* [Design for a Map](https://medium.com/google-design/design-for-a-map-927b533ac544): What is a map? Why do we use them? Where are they heading? I’ll offer some insights on a modern, semi-informed, perspective on what Maps can do for people and some thoughts on where they could be going. Credit: [Daniel Ruston](https://twitter.com/daniel_ruston) and [Google Design's tweet announcement](https://twitter.com/GoogleDesign/status/1085612902072180736).
 
 ## General  
 * [A wholly incomplete visual guide on how to use icons on things](https://blog.prototypr.io/a-wholly-incomplete-visual-guide-on-how-to-use-icons-on-things-ad2a4f1f614b)  
