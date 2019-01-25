@@ -12,6 +12,7 @@
 * [Mapping the reality of the world](https://blog.prototypr.io/mapping-the-reality-of-the-world-df7ad81ccb54): How early maps and our own mental maps can shape the design of our physical and digital worlds.  
 * [Google Map's Moat](https://www.justinobeirne.com/google-maps-moat): How far ahead of Apple Maps is Google Maps? _blog post_  
 * [What London’s Underground Map Can Teach You About Design](https://uxplanet.org/what-londons-underground-map-can-teach-you-about-design-7178cc4e4c39), _blog post_  
+* [What technochauvinists get wrong about maps (so much)](https://www.fastcompany.com/90294945/what-technochauvinists-get-wrong-about-maps), _blog post_  
 
 ## Project Management
 * [Preparing a Map File for Printing](http://www.mynameiskate.com/public/Printing_Maps_FilePrepChecklist.pdf),  _Document presented at NACIS 2018 by Bruce Dnaiel & Kate Leroux_
