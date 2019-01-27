@@ -30,4 +30,5 @@
 * [Make me think!](https://blog.prototypr.io/make-me-think-90b46aa50513), _blog post_  
 * [Delicious Digital Design Process](https://medium.com/zajnocrew/delicious-digital-design-process-d16fdc3660d8), _blog post_  
 * [Why Design Thinking is failing and what we should be doing differently](https://uxdesign.cc/why-design-thinking-is-failing-and-what-we-should-be-doing-differently-c8842f843b44), _blog post_  
-* [A lightbulb is not an idea! How images support your text](https://medium.com/personal-growth/a-lightbulb-is-not-an-idea-549e83514587), _blog post_
+* [A lightbulb is not an idea! How images support your text](https://medium.com/personal-growth/a-lightbulb-is-not-an-idea-549e83514587), _blog post_  
+* [The quest for simplicity](https://uxdesign.cc/the-quest-for-simplicity-5c31ae2c553f)  
