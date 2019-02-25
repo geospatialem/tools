@@ -13,6 +13,7 @@
 * [Prettier](https://prettier.io/playground): Opinionated Code Formatter.  
 * [Everything Easy is Hard Again](https://frankchimero.com/writing/everything-easy-is-hard-again), _blog post_  
 * [The Great Divide, Two-front end devs are sitting at a bar. They have nothing to talk about](https://css-tricks.com/the-great-divide), _blog post_ on the reality of development today. The basis for imposter syndrome today?
+* [Top 10 application design mistakes](https://www.nngroup.com/articles/top-10-application-design-mistakes/), _blog post_  
 
 ## Bootstrap  
 * [TWBSColor](http://work.smarchal.com/twbscolor/index.php): Generate your own Bootstrap navbar.  
