@@ -33,3 +33,4 @@
 * [A lightbulb is not an idea! How images support your text](https://medium.com/personal-growth/a-lightbulb-is-not-an-idea-549e83514587), _blog post_  
 * [The quest for simplicity](https://uxdesign.cc/the-quest-for-simplicity-5c31ae2c553f)  
 * [Principles For Designing Better Products](https://uxplanet.org/principles-for-designing-better-products-349f463c9ee5)  
+* [How we updated our onboarding experience and got more users](https://medium.freecodecamp.org/how-we-updated-our-onboarding-experience-and-got-more-users-b0cd353677d6), Methods we used to increase conversion by 60%, _blog post_  
