@@ -36,3 +36,4 @@
 * [How we updated our onboarding experience and got more users](https://medium.freecodecamp.org/how-we-updated-our-onboarding-experience-and-got-more-users-b0cd353677d6), Methods we used to increase conversion by 60%, _blog post_  
 * [UI vs. UX: What’s the difference between user interface and user experience?](https://www.usertesting.com/blog/ui-vs-ux), _blog post_  ![Bad vs Good UX](http://usertesting.staging.wpengine.com/wp-content/uploads/2018/10/UXrocks.jpg)  
 * [The feedback you choose not to give is as important as the one you do](https://uxdesign.cc/the-feedback-you-choose-not-to-give-is-as-important-as-the-one-you-do-f71e6fa28669), _blog post_    
+* [The role of UX writing in design ethics](https://medium.com/dropbox-design/the-role-of-ux-writing-in-design-ethics-e9cbb456234c?ref=heydesigner), _blog post_  
