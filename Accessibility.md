@@ -23,6 +23,9 @@
 * [4 Principles, How to get started with website accessibility](https://medium.freecodecamp.org/4-principles-for-getting-started-with-website-accessibility-4e85f75730b)  
 * [Products mocked as “lazy” or “useless” are often important tools for people with disabilities](https://www.vox.com/the-goods/2018/9/20/17791354/products-people-disabilities-sock-slider-banana-slicer-lazy), _blog post_  
 
+## Specific accessible examples  
+* [A List Apart: Accessibility for Vestibular Disorders, How my temporary disability changed my perspective](https://alistapart.com/article/accessibility-for-vestibular), _blog post_ focused on vertigo/dizziness.   
+
 
 ## Lessons Learned  
 * [What my color-blindness taught me about design](https://uxdesign.cc/what-my-color-blindness-taught-me-about-design-d3009a93ff9c), _blog post_ 
