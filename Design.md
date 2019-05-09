@@ -38,3 +38,4 @@
 * [The feedback you choose not to give is as important as the one you do](https://uxdesign.cc/the-feedback-you-choose-not-to-give-is-as-important-as-the-one-you-do-f71e6fa28669), _blog post_    
 * [The role of UX writing in design ethics](https://medium.com/dropbox-design/the-role-of-ux-writing-in-design-ethics-e9cbb456234c?ref=heydesigner), _blog post_  
 * [Soft skills in UX — what makes a mediocre designer great](https://uxdesign.cc/soft-skills-in-ux-what-makes-a-mediocre-designer-great-13dd8898c739), _blog post_  
+* [Brainstorming terrible awful, no good, very bad ideas](https://uxdesign.cc/brainstorming-terrible-awful-no-good-very-bad-ideas-8fc623f835f), _blog post_  
