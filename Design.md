@@ -41,3 +41,4 @@
 * [Brainstorming terrible awful, no good, very bad ideas](https://uxdesign.cc/brainstorming-terrible-awful-no-good-very-bad-ideas-8fc623f835f), _blog post_  
 * [You Got This](https://automattic.design/2019/05/22/you-got-this), _blog post_  
 * [“Well, I’m not a designer…” – Five Ideas for Devs Making Design Decisions](https://spin.atomicobject.com/2019/08/02/developer-design-decision), _blog post_  
+* [Designing at Google: 10 things I know to be true](https://uxdesign.cc/designing-at-google-10-things-i-know-to-be-true-e033d97e5f13), _blog post_  
