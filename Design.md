@@ -43,3 +43,4 @@
 * [“Well, I’m not a designer…” – Five Ideas for Devs Making Design Decisions](https://spin.atomicobject.com/2019/08/02/developer-design-decision), _blog post_  
 * [Designing at Google: 10 things I know to be true](https://uxdesign.cc/designing-at-google-10-things-i-know-to-be-true-e033d97e5f13), _blog post_  
 * [Designing with Compassion](https://medium.com/facebook-design/designing-with-compassion-59a5ca077031), _blog post_  
+* [1900 Infographics Challenging White Supremacy](https://www.itsnicethat.com/articles/w-e-b-du-bois-charting-black-lives-house-of-illustration-131119), _blog post_  
