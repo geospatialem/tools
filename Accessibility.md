@@ -22,6 +22,7 @@
 * [The blog post behind GAAD](https://mysqltalk.wordpress.com/2011/11/27/challenge-accessibility-know-how-needs-to-go-mainstream-with-developers-now/?dm_i=3SCI,EH4B,44Q55K,1J1F1,1)  
 * [4 Principles, How to get started with website accessibility](https://medium.freecodecamp.org/4-principles-for-getting-started-with-website-accessibility-4e85f75730b)  
 * [Products mocked as “lazy” or “useless” are often important tools for people with disabilities](https://www.vox.com/the-goods/2018/9/20/17791354/products-people-disabilities-sock-slider-banana-slicer-lazy), _blog post_  
+* [What a Year of Learning and Teaching Accessibility Taught Me](https://www.24a11y.com/2019/what-a-year-of-learning-and-teaching-accessibility-taught-me), _blog post_  
 
 ## Specific accessible examples  
 * [A List Apart: Accessibility for Vestibular Disorders, How my temporary disability changed my perspective](https://alistapart.com/article/accessibility-for-vestibular), _blog post_ focused on vertigo/dizziness.   
@@ -39,6 +40,8 @@
 * [GitHub's Collection of Web Accessibility Tools](https://github.com/collections/web-accessibility): Tools to help you design and develop web projects with accessibility in mind.  
 * [WebAIM Link Contrast Checker](https://webaim.org/resources/linkcontrastchecker): Checks Link to: Body Text and Background, and Body Text to Background.  
 * [Who Can Use this Color Combination?](https://whocanuse.com)  
+* [ANDI](https://www.ssa.gov/accessibility/andi/help/howtouse.html)  
+* [A11ygator](https://a11ygator.chialab.io)  
 
 ## Usage  
 * [Why Don’t Screen Readers Always Read What’s on the Screen? Part 1: Punctuation and Typographic Symbols](https://www.deque.com/blog/dont-screen-readers-read-whats-screen-part-1-punctuation-typographic-symbols)  
