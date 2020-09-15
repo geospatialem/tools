@@ -44,3 +44,48 @@
 * [Designing at Google: 10 things I know to be true](https://uxdesign.cc/designing-at-google-10-things-i-know-to-be-true-e033d97e5f13), _blog post_  
 * [Designing with Compassion](https://medium.com/facebook-design/designing-with-compassion-59a5ca077031), _blog post_  
 * [1900 Infographics Challenging White Supremacy](https://www.itsnicethat.com/articles/w-e-b-du-bois-charting-black-lives-house-of-illustration-131119), _blog post_  
+
+## Mindsets of a Human-Centered Design  
+1. Learn from Failure
+2. Make It
+3. Creative Confidence
+4. Empathy
+5. Embrace Ambiguity
+6. Be Optimistic
+7. Iterate, Iterate, Iterate
+
+### 1. Learn from Failure
+>"Don’t think of it as failure, think of it as designing experiments through which you’re going to learn."
+
+Failure is an incredibly powerful tool for learning. Designing experiments, prototypes, and interactions and testing them is at the heart of human-centered design. So is an understanding that not all of them are going to work. As we seek to solve big problems, we’re bound to fail. But if we adopt the right mindset, we’ll inevitably learn something from that failure.
+
+### 2. Make It
+>“You’re taking risk out of the process by making something simple first. And you always learn lessons from it.”
+
+As human-centered designers, we make because we believe in the power of tangibility and we know that making an idea real is a fantastic way to think it through. When the goal is to get impactful solutions out into the world you can’t stay in the realm of theory. You have to make your ideas real.
+
+### 3. Creative Confidence  
+> “Creative confidence is the notion that you have big ideas, and that you have the ability to act on them.”  
+
+Anyone can approach the world like a designer. Often all it takes to unlock that potential as a dynamic problem solver is creative confidence. Creative confidence is the belief that everyone is creative, and that creativity isn’t the capacity to draw or compose or sculpt, but a way of approaching the world.  
+
+### 4. Empathy  
+>“I can’t come up with any new ideas if all I do is exist in my own life.”  
+
+Empathy is the capacity to step into other people’s shoes, to understand their lives, and start to solve problems from their perspectives. Humancentered design is premised on empathy, on the idea that the people you’re designing for are your roadmap to innovative solutions. All you have to do is empathize, understand them, and bring them along with you in the design process.  
+
+### 5. Embrace Ambiguity  
+> “We may not know what that answer is, but we know that we have to give ourselves permission to explore.”  
+
+Human-centered designers always start from the place of not knowing the answer to the problem they’re looking to solve. And though that’s not particularly comfortable, it allows us to open up creatively, to pursue lots of different ideas, and to arrive at unexpected solutions. Embracing ambiguity allows us to give ourselves permission to be fantastically creative.
+
+
+### 6. Be Optimistic  
+>“Optimism is the thing that drives you forward.”  
+
+We believe that design is inherently optimistic. To take on a big challenge, especially one as large and intractable as poverty, we have to believe that progress is even an option. If we didn’t, we wouldn’t even try. Optimism is the embrace of possibility, the idea that even if we don’t know the answer, that it’s out there and that we can find it.    
+
+### 7. Iterate, Iterate, Iterate  
+>“What an iterative approach affords us is that we gain validation along the way...because we’re hearing from the people we’re actually designing for.”  
+
+Human-centered design is an inherently iterative approach to solving problems because it makes feedback from the people we’re designing for a critical part of how a solution evolves. By continually iterating, refining, and improving our work we put ourselves in a place where we’ll have more ideas, try a variety of approaches, unlock our creativity, and arrive more quickly at successful solutions.  
