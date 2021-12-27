@@ -24,6 +24,7 @@
 * [Products mocked as “lazy” or “useless” are often important tools for people with disabilities](https://www.vox.com/the-goods/2018/9/20/17791354/products-people-disabilities-sock-slider-banana-slicer-lazy), _blog post_  
 * [What a Year of Learning and Teaching Accessibility Taught Me](https://www.24a11y.com/2019/what-a-year-of-learning-and-teaching-accessibility-taught-me), _blog post_  
 * [Making Accessibility More Accessible](https://austingil.com/making-accessibility-more-accessible)  
+* [How many people with disabilities use our site?](https://www.tpgi.com/color-contrast-checker)  
 
 ## Specific accessible examples  
 * [A List Apart: Accessibility for Vestibular Disorders, How my temporary disability changed my perspective](https://alistapart.com/article/accessibility-for-vestibular), _blog post_ focused on vertigo/dizziness.   
