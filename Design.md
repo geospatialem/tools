@@ -45,6 +45,7 @@
 * [Designing with Compassion](https://medium.com/facebook-design/designing-with-compassion-59a5ca077031), _blog post_  
 * [1900 Infographics Challenging White Supremacy](https://www.itsnicethat.com/articles/w-e-b-du-bois-charting-black-lives-house-of-illustration-131119), _blog post_  
 * [The Best UX Research Methods in a Pinch](https://uxtools.co/blog/best-ux-research-methods-in-a-pinch/?ref=sidebar) 
+* [Writing with Respect. Users are People. Treat them Well](https://uxdesign.cc/writing-with-respect-fb3d9604a374)  
 
 ## Mindsets of a Human-Centered Design  
 1. Learn from Failure
