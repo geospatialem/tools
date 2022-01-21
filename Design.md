@@ -47,6 +47,9 @@
 * [The Best UX Research Methods in a Pinch](https://uxtools.co/blog/best-ux-research-methods-in-a-pinch/?ref=sidebar) 
 * [Writing with Respect. Users are People. Treat them Well](https://uxdesign.cc/writing-with-respect-fb3d9604a374)  
 
+## Component Libraries
+* [Crafting Component Libraries: The Elements](https://jonyablonski.com/articles/2022/crafting-component-libraries-the-elements/?ref=sidebar)  
+
 ## Mindsets of a Human-Centered Design  
 1. Learn from Failure
 2. Make It
