@@ -25,6 +25,7 @@
 * [What a Year of Learning and Teaching Accessibility Taught Me](https://www.24a11y.com/2019/what-a-year-of-learning-and-teaching-accessibility-taught-me), _blog post_  
 * [Making Accessibility More Accessible](https://austingil.com/making-accessibility-more-accessible)  
 * [How many people with disabilities use our site?](https://www.tpgi.com/color-contrast-checker)  
+* [Why Don't Developers Take Accessibility Seriously](https://css-tricks.com/why-dont-developers-take-accessibility-seriously)  
 
 ## Specific accessible examples  
 * [A List Apart: Accessibility for Vestibular Disorders, How my temporary disability changed my perspective](https://alistapart.com/article/accessibility-for-vestibular), _blog post_ focused on vertigo/dizziness.   
