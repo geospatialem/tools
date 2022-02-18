@@ -46,6 +46,8 @@
 * [1900 Infographics Challenging White Supremacy](https://www.itsnicethat.com/articles/w-e-b-du-bois-charting-black-lives-house-of-illustration-131119), _blog post_  
 * [The Best UX Research Methods in a Pinch](https://uxtools.co/blog/best-ux-research-methods-in-a-pinch/?ref=sidebar) 
 * [Writing with Respect. Users are People. Treat them Well](https://uxdesign.cc/writing-with-respect-fb3d9604a374)  
+* [How Designers Can Prevent User Errors](https://uxtools.co/blog/how-designers-can-prevent-user-errors)  
+* [Yes, Design Systems Do Improve Developer Efficiency and Design Consistency](https://sparkbox.com/foundry/design_system_roi_impact_of_design_systems_business_value_carbon_design_system)  
 
 ## Component Libraries
 * [Crafting Component Libraries: The Elements](https://jonyablonski.com/articles/2022/crafting-component-libraries-the-elements/?ref=sidebar)  
