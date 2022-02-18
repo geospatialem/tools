@@ -26,10 +26,12 @@
 * [Making Accessibility More Accessible](https://austingil.com/making-accessibility-more-accessible)  
 * [How many people with disabilities use our site?](https://www.tpgi.com/color-contrast-checker)  
 * [Why Don't Developers Take Accessibility Seriously](https://css-tricks.com/why-dont-developers-take-accessibility-seriously)  
+* [Collaborative planning, the forgotten step of accessible development](https://www.deque.com/blog/collaborative-planning-the-forgotten-step-of-accessible-development/?utm_medium=email&_hsmi=183569394&_hsenc=p2ANqtz-9ksbsrsGCBe8r-LU0sFQGbt5pkRZ4BUUrs1s3xipcwxJfBAPA-VQo4UtjR_1aBuCi5vcDZ0wy1kprN6kCMT9khXn-BFA&utm_content=183569394&utm_source=hs_email)  
 
 ## Specific accessible examples  
 * [A List Apart: Accessibility for Vestibular Disorders, How my temporary disability changed my perspective](https://alistapart.com/article/accessibility-for-vestibular), _blog post_ focused on vertigo/dizziness.   
 * [Accessibility drives aesthetics](https://uxdesign.cc/accessibility-drives-aesthetics-5aef77b5d2aa), _blog post_  
+* [An Accessibility Review of the New Medium Site](https://sheribyrnehaber.medium.com/an-accessibility-review-of-the-new-medium-site-d93e93fae3a1)  
 
 
 ## Lessons Learned  
@@ -45,6 +47,7 @@
 * [Who Can Use this Color Combination?](https://whocanuse.com)  
 * [ANDI](https://www.ssa.gov/accessibility/andi/help/howtouse.html)  
 * [A11ygator](https://a11ygator.chialab.io)  
+* [5 free must have web accessibility tools](https://www.barrierbreak.com/5-free-must-have-web-accessibility-testing-tools)  
 
 ## Usage  
 * [Why Don’t Screen Readers Always Read What’s on the Screen? Part 1: Punctuation and Typographic Symbols](https://www.deque.com/blog/dont-screen-readers-read-whats-screen-part-1-punctuation-typographic-symbols)  
