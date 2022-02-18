@@ -50,6 +50,7 @@
 * [ANDI](https://www.ssa.gov/accessibility/andi/help/howtouse.html)  
 * [A11ygator](https://a11ygator.chialab.io)  
 * [5 free must have web accessibility tools](https://www.barrierbreak.com/5-free-must-have-web-accessibility-testing-tools)  
+* [Accessible Home Page - Before and After Demonstration](https://www.w3.org/WAI/demos/bad/after/home.html)
 
 ## Usage  
 * [Why Don’t Screen Readers Always Read What’s on the Screen? Part 1: Punctuation and Typographic Symbols](https://www.deque.com/blog/dont-screen-readers-read-whats-screen-part-1-punctuation-typographic-symbols)  
