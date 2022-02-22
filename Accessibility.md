@@ -54,3 +54,5 @@
 
 ## Usage  
 * [Why Don’t Screen Readers Always Read What’s on the Screen? Part 1: Punctuation and Typographic Symbols](https://www.deque.com/blog/dont-screen-readers-read-whats-screen-part-1-punctuation-typographic-symbols)  
+* [How People with Disabilities Use the Web](https://www.w3.org/WAI/people-use-web)  
+* [Browsing with assistive technology videos](https://tetralogical.com/blog/2021/12/24/browsing-with-assistive-technology-videos)  
