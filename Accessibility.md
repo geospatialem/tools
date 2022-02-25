@@ -29,6 +29,7 @@
 * [Collaborative planning, the forgotten step of accessible development](https://www.deque.com/blog/collaborative-planning-the-forgotten-step-of-accessible-development/?utm_medium=email&_hsmi=183569394&_hsenc=p2ANqtz-9ksbsrsGCBe8r-LU0sFQGbt5pkRZ4BUUrs1s3xipcwxJfBAPA-VQo4UtjR_1aBuCi5vcDZ0wy1kprN6kCMT9khXn-BFA&utm_content=183569394&utm_source=hs_email)  
 * [WCAG 2.1 vs 2.0: What the Difference?](https://www.mannixmarketing.com/blog/wcag-2-1-vs-2-0/)  
 * [WCAG 2.1: What is Next for Accessibility Guidelines](https://www.deque.com/blog/wcag-2-1-what-is-next-for-accessibility-guidelines)  
+* [The no-mouse challenge: Taking the keyboard navigation red pill](https://uxdesign.cc/taking-the-keyboard-navigation-red-pill-dbb76dd73b1e)  
 
 ## Specific accessible examples  
 * [A List Apart: Accessibility for Vestibular Disorders, How my temporary disability changed my perspective](https://alistapart.com/article/accessibility-for-vestibular), _blog post_ focused on vertigo/dizziness.   
